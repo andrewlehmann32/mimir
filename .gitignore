@@ -293,3 +293,6 @@ Generated
 appsettings.local.json
 
 !.devcontainer/bin
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
